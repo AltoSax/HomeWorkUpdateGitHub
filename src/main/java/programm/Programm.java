@@ -9,5 +9,9 @@ public class Programm {
         System.out.println("Ok, what I need to do?");
         System.out.println("Print smth, load it to GitHub and update...");
         System.out.println("Sounds easy");
+
+
+        System.out.println("Ok, it's done");
+        System.out.println("Time to update!");
     }
 }
