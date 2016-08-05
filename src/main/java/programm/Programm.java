@@ -13,5 +13,8 @@ public class Programm {
 
         System.out.println("Ok, it's done");
         System.out.println("Time to update!");
+        System.out.println("Time to update!");
+        System.out.println("Time to update!");
+        System.out.println("Time to update!");
     }
 }
